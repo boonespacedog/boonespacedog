@@ -2,11 +2,11 @@
 
 ## What I Do
 
-I build **AI research workflows** for high-abstraction theoretical physics and mathematics—demonstrating Python, data science, and machine learning through real scientific questions.
+I build **AI research workflows** demonstrating Python, data science, and AI engineering skills through real scientific questions.
 
 ## My Journey
 
-Between 2012-2016, I rediscovered physics and formulated research questions that became blog posts and even a science fiction novel. Now I've come full circle: those "big ideas" became my sandbox for learning **Data Science**, **Python**, and **AI-assisted research**.
+While learning **Data Science**, **Python**, and **AI Engineering**, I rediscovered my old passion for physics which gave me "big ideas" for my data and research sandbox projects. 
 
 ## What Makes My Work Different
 
@@ -15,7 +15,6 @@ I orchestrate **complex AI R&D workflows** at the theory construction level—wo
 **Current focus:**
 - Multi-agent AI orchestration for mathematical physics research
 - Computational validation of theoretical frameworks
-- Bridging operator algebras, quantum information, and cosmology
 
 ## Projects in This Portfolio
 
@@ -31,7 +30,7 @@ I orchestrate **complex AI R&D workflows** at the theory construction level—wo
 
 **Skills showcased:** Python · NumPy · SciPy · PyTorch · Multi-agent AI workflows · GAP · LaTeX · Git · Research design · Statistical validation · TDD protocols
 
-**Background:** Master degree in administration · Physics enthusiast turned data scientist
+**Background:** Master degree in administration · Physics enthusiast turned AI engineer.
 
 ---
 
