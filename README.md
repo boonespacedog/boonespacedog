@@ -2,7 +2,7 @@
 
 ## What I Do
 
-I build **AI research workflows** demonstrating Python, data science, and AI engineering skills through real scientific questions.
+I build **AI workflows** demonstrating Python, data science, and AI engineering skills through real scientific questions.
 
 ## My Journey
 
@@ -30,7 +30,7 @@ I orchestrate **complex AI R&D workflows** at the theory construction level—wo
 
 **Skills showcased:** Python · NumPy · SciPy · PyTorch · Multi-agent AI workflows · GAP · LaTeX · Git · Research design · Statistical validation · TDD protocols
 
-**Background:** Master degree in administration · Physics enthusiast turned AI engineer.
+**Background:** Master degree in administration - turned AI project manager.
 
 ---
 
