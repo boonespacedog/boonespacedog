@@ -2,11 +2,11 @@
 
 ## What I Do
 
-I build **AI workflows** demonstrating Python, data science, and AI engineering skills through real scientific questions.
+I build **AI workflows** demonstrating Python, data analytics, and automation skills that drive real buisiness leverage.
 
 ## My Journey
 
-While learning **Data Science**, **Python**, and **AI Engineering**, I rediscovered my old passion for physics which gave me "big ideas" for my data and research sandbox projects. 
+While improving my technical sckills as a **PMP-Certified Project Manager** I discovered passion for orchestrating AI workflows combined with scripts to solve **productivity problems**. My solutions save resources and bring x10 gains to those who use them due to meticulous requirements gathering and elicitation and transforming them into working solutions approved by the clients. 
 
 ## What Makes My Work Different
 
